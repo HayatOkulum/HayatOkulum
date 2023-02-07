@@ -1,3 +1,3 @@
-# ![Hayat Okulum](https://hayatokulum.org/)
+# ![Hayat Okulum]([https://hayatokulum.org/](https://hayatokulum.org/))
 
   Özgür Yazılım Dünyasına Atılan Bir Adım... 
